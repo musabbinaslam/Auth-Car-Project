@@ -18,7 +18,7 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="navbar-inner">
                 <Link to="/" className="nav-link-brand" onClick={closeMenu}>
-                    LuxuryRentals
+                    LuxuryRentals,com
                 </Link>
 
                 <button className="menu-toggle" onClick={toggleMenu} aria-label="Toggle navigation">
